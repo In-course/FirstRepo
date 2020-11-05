@@ -6,3 +6,5 @@
 Good bye!
 
 Some new feature
+
+Line from user1
