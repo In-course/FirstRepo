@@ -8,3 +8,5 @@ Good bye!
 
 
 Critical bag changed
+
+Another line from user2
